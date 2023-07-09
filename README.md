@@ -21,3 +21,6 @@ También se incluyen funcionalidades para la gestión de votos:
 - Crear voto: Permite registrar un nuevo voto en una opción de una encuesta.
 
 El objetivo de este proyecto fue proporcionar una solución completa para la gestión de encuestas, opciones y votos, permitiendo a los usuarios crear, modificar y eliminar encuestas, opciones y votos.
+
+![image](https://github.com/Julian1699/Proyecto03-Encuesta/assets/114323630/38bd3234-6089-4794-bdec-3071c973c6c9)
+
